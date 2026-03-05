@@ -1,1 +1,21 @@
 /* Add CSS Styling */
+
+.odd {
+    background-color: lightpink;
+    font-family: 'Courier New', 'DejaVu Sans', sans-serif;
+}
+
+.second { 
+    color: blue;
+    font-size: 36px;
+}
+
+.extra {
+    size: 24px;
+}
+
+.fourth {
+    background-color: lightgreen;
+    size: 24px;
+    font-weight: bold;
+}
